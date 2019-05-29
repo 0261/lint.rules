@@ -1,0 +1,15 @@
+{
+    "defaultSeverity": "error",
+    "extends": ["tslint:recommended"],
+    "rules": {
+        "quotemark": [true, "single"],
+        "ordered-imports": false,
+        "member-access": false,
+        "arrow-parens": [true, "ban-single-arg-parens"],
+        "object-literal-sort-keys": false,
+        "interface-name": [true, "never-prefix"],
+        "array-type": [true, "generic"],
+        "no-namespace": false,
+        "max-classes-per-file": false
+    }
+}

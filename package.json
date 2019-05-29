@@ -1,0 +1,20 @@
+{
+  "name": "typada-lint-rules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rules.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "custom lint rules",
+    "typescript",
+    "tslint"
+  ],
+  "author": "padakim",
+  "license": "ISC",
+  "devDependencies": {
+    "tslint": "^5.16.0",
+    "typescript": "^3.4.5"
+  }
+}

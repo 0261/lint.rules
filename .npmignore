@@ -1,0 +1,13 @@
+#
+#
+#
+# compressed file
+/*.tgz
+
+# configuration files
+/.editorconfig
+/.vscode
+/tsconfig.json
+
+# test code
+/test.ts
